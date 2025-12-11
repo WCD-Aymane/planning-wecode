@@ -2,11 +2,9 @@
 icon: lucide/rocket
 ---
 
-# Calendrier
+# Calendrier WECODE — Mois de décembre
 
-## WECODE — Mois de décembre
-
-🟦 SEMAINE 1
+### SEMAINE 1
 
 | Jour      | Plateforme           | Type            | Contenu / Thème                                                         | Heure |
 |-----------|----------------------|-----------------|-------------------------------------------------------------------------|-------|
@@ -15,7 +13,7 @@ icon: lucide/rocket
 | Jeudi     | Blog                 | Article         | Pourquoi 80% des sites suisses ne convertissent pas                     | **08h00** |
 
 
-🟩 SEMAINE 2
+### SEMAINE 2
 
 | Jour      | Plateforme           | Type            | Contenu / Thème                                                         | Heure |
 |-----------|----------------------|-----------------|-------------------------------------------------------------------------|-------|
@@ -24,7 +22,7 @@ icon: lucide/rocket
 | Jeudi     | Blog                 | Article         | Figma → WordPress : transformer un design en site performant             | **08h00** |
 
 
-🟧 SEMAINE 3
+### SEMAINE 3
 
 | Jour      | Plateforme           | Type            | Contenu / Thème                                                         | Heure |
 |-----------|----------------------|-----------------|-------------------------------------------------------------------------|-------|
@@ -33,7 +31,7 @@ icon: lucide/rocket
 | Jeudi     | Blog                 | Article         | Comment une refonte a doublé les demandes de contact                    | **08h00** |
 
 
-🟥 SEMAINE 4
+### SEMAINE 4
 
 | Jour      | Plateforme           | Type            | Contenu / Thème                                                         | Heure |
 |-----------|----------------------|-----------------|-------------------------------------------------------------------------|-------|
