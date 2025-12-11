@@ -2,7 +2,9 @@
 icon: lucide/rocket
 ---
 
-# Calendrier WECODE — Mois de décembre
+# Calendrier WECODE
+
+Mois de décembre
 
 ### SEMAINE 1
 
