@@ -47,7 +47,6 @@ Copyright &copy; 2025 Wecode
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   { "Accueil" = "index.md" },
-  { "Décembre 2025" = "decembre_2025.md" },
   { "Janvier" = "janvier.md" },
   { "Février" = "fevrier.md" },
   { "Mars" = "mars.md" },
@@ -60,6 +59,7 @@ nav = [
   { "Octobre" = "octobre.md" },
   { "Novembre" = "novembre.md" },
   { "Décembre" = "decembre.md" },
+  { "Décembre 2025" = "decembre_2025.md" },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
