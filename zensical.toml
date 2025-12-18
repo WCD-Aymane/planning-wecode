@@ -46,20 +46,26 @@ Copyright &copy; 2025 Wecode
 # Read more: https://zensical.org/docs/setup/navigation/
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-  { "Accueil" = "index.md" },
-  { "Janvier" = "janvier.md" },
-  { "Février" = "fevrier.md" },
-  { "Mars" = "mars.md" },
-  { "Avril" = "avril.md" },
-  { "Mai" = "mai.md" },
-  { "Juin" = "juin.md" },
-  { "Juillet" = "juillet.md" },
-  { "Août" = "aout.md" },
-  { "Septembre" = "septembre.md" },
-  { "Octobre" = "octobre.md" },
-  { "Novembre" = "novembre.md" },
-  { "Décembre" = "decembre.md" },
-  { "Décembre 2025" = "decembre_2025.md" },
+  { "Instruction" = "index.md" },
+  { "2026" = [
+      { "Janvier" = "janvier.md" },
+      { "Février" = "fevrier.md" },
+      { "Mars" = "mars.md" },
+      { "Avril" = "avril.md" },
+      { "Mai" = "mai.md" },
+      { "Juin" = "juin.md" },
+      { "Juillet" = "juillet.md" },
+      { "Août" = "aout.md" },
+      { "Septembre" = "septembre.md" },
+      { "Octobre" = "octobre.md" },
+      { "Novembre" = "novembre.md" },
+      { "Décembre" = "decembre.md" }
+    ]
+  },
+  { "2025" = [
+      { "Décembre" = "decembre_2025.md" }
+    ]
+  }
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -227,7 +233,7 @@ features = [
     # When tabs are enabled, top-level sections are rendered in a menu layer
     # below the header for viewports above 1220px, but remain as-is on mobile.
     # https://zensical.org/docs/setup/navigation/#navigation-tabs
-    #"navigation.tabs",
+    "navigation.tabs",
 
     # When sticky tabs are enabled, navigation tabs will lock below the header
     # and always remain visible when scrolling down.
