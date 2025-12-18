@@ -1,10 +1,8 @@
 ---
-icon: lucide/rocket
+icon: lucide/calendar-days
 ---
 
-# Calendrier WECODE
-
-Mois de décembre
+# Décembre 2025 (Archive)
 
 ### SEMAINE 1
 
