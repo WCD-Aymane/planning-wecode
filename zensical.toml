@@ -44,10 +44,23 @@ Copyright &copy; 2025 Wecode
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Get started" = "index.md" },
-#   { "Markdown in 5min" = "markdown.md" },
-# ]
+# Read more: https://zensical.org/docs/setup/navigation/
+nav = [
+  { "Accueil" = "index.md" },
+  { "Décembre 2025" = "decembre_2025.md" },
+  { "Janvier" = "janvier.md" },
+  { "Février" = "fevrier.md" },
+  { "Mars" = "mars.md" },
+  { "Avril" = "avril.md" },
+  { "Mai" = "mai.md" },
+  { "Juin" = "juin.md" },
+  { "Juillet" = "juillet.md" },
+  { "Août" = "aout.md" },
+  { "Septembre" = "septembre.md" },
+  { "Octobre" = "octobre.md" },
+  { "Novembre" = "novembre.md" },
+  { "Décembre" = "decembre.md" },
+]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
