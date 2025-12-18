@@ -45,27 +45,29 @@ Copyright &copy; 2025 Wecode
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 # Read more: https://zensical.org/docs/setup/navigation/
-nav = [
-  { "Instruction" = "index.md" },
-  { "2026" = [
-      { "Janvier" = "janvier.md" },
-      { "Février" = "fevrier.md" },
-      { "Mars" = "mars.md" },
-      { "Avril" = "avril.md" },
-      { "Mai" = "mai.md" },
-      { "Juin" = "juin.md" },
-      { "Juillet" = "juillet.md" },
-      { "Août" = "aout.md" },
-      { "Septembre" = "septembre.md" },
-      { "Octobre" = "octobre.md" },
-      { "Novembre" = "novembre.md" },
-      { "Décembre" = "decembre.md" }
-    ]
-  },
-  { "2025" = [
-      { "Décembre" = "decembre_2025.md" }
-    ]
-  }
+# Read more: https://zensical.org/docs/setup/navigation/
+[[project.nav]]
+"Instruction" = "index.md"
+
+[[project.nav]]
+"2026" = [
+    { "Janvier" = "janvier.md" },
+    { "Février" = "fevrier.md" },
+    { "Mars" = "mars.md" },
+    { "Avril" = "avril.md" },
+    { "Mai" = "mai.md" },
+    { "Juin" = "juin.md" },
+    { "Juillet" = "juillet.md" },
+    { "Août" = "aout.md" },
+    { "Septembre" = "septembre.md" },
+    { "Octobre" = "octobre.md" },
+    { "Novembre" = "novembre.md" },
+    { "Décembre" = "decembre.md" }
+]
+
+[[project.nav]]
+"2025" = [
+    { "Décembre" = "decembre_2025.md" }
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize

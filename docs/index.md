@@ -1,5 +1,7 @@
 ---
 icon: lucide/rocket
+hide:
+  - navigation
 ---
 
 # Processus de Production de Contenu
@@ -27,3 +29,9 @@ Générez l'illustration ou le visuel du post :
 👉 **[Midjourney Explore](https://www.midjourney.com/explore?tab=top)**
 
 > **Instruction :** Entrez le prompt visuel fourni par l'étape 1 ou créez-en un nouveau pour générer une image impactante.
+
+<style>
+  .md-content__inner {
+    max-width: 800px;
+  }
+</style>
